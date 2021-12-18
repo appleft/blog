@@ -1,0 +1,13 @@
+{
+  "name": "blog",
+  "version": "0.1",
+  "description": "assets",
+  "main": "index.js",
+  "repository": "https://github.com/appleft/blog.git",
+  "author": "serveto <paprika@cc.appleft.xyz>",
+  "license": "The Unlicense",
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.0",
+    "tailwindcss": "^3.0.7"
+  }
+}
